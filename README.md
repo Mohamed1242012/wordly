@@ -10,6 +10,7 @@ Welcome to Wordly, your personal dictation assistant! Wordly is designed to enha
 ### 1. Installation:
    - **Download Wordly** from the Official Website - Make sure to follow the steps defined on the Download Page.
    - **Install** the app on your device.
+   - (Or Build it your self using the source code !)
 
 ### 2. Launching the App:
    - Open Wordly by tapping its icon on your device.
